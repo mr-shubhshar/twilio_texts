@@ -1,2 +1,5 @@
 # virtual environment
 venv/
+
+# pyc (byte code) files
+*.pyc
