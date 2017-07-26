@@ -1,9 +1,12 @@
-## Texting using Twilio API using Python.
+# Twilio_texts
+Texting using Twilio API using Python.
 
-# USAGE
+## Installation
 
 * Clone this repo into a directory:
 ```git clone https://github.com/mr-shubhshar/twilio_texts ```
+
+## Usage -- CLI
 
 * Set **enviroment variables** from terminal for accessing *API tokens* and *phone numbers*:
 ```
@@ -16,3 +19,9 @@
 ```
     $ python send_text.py
 ```
+
+### Suggestions
+> Please create a new issue.
+
+### License
+[MIT] (https://github.com/mr-shubhshar/twilio_texts/blob/master/LICENSE)
