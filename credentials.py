@@ -1,4 +1,6 @@
-account_sid = 'AC79e58afee2378d1e4e7ac33ce781777c'
-auth_token = 'dd56b19daa0ac104e28028afaebc13f9'
-my_ph = '+918826054070'
-my_twilio_ph = '+12564748603'
+import os
+
+account_sid = os.environ['ac_id']
+auth_token = os.environ['auth_token']
+my_ph = os.environ['my_ph']
+my_twilio_ph = os.environ['my_twilio_ph']
