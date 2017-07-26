@@ -24,4 +24,4 @@ Texting using Twilio API using Python.
 > Please create a new issue.
 
 ### License
- [MIT] (https://github.com/mr-shubhshar/twilio_texts/blob/master/LICENSE)
+[MIT](https://github.com/mr-shubhshar/twilio_texts/blob/master/LICENSE)
